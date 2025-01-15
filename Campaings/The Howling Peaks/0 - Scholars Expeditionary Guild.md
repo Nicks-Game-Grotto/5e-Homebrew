@@ -82,5 +82,35 @@ Your group of adventurers is one of Candlekeep’s most accomplished teams. Afte
 
 ---
 
-This prologue ties the party’s backstory to the Sword Coast and Frozen North, firmly rooting it in Forgotten Realms lore while providing engaging hooks and detailed character suggestions.
+## Session One Combat Encounter: Swarm of the Undead
 
+### Setup
+As the party ventures into the foothills of the **Skyreach Peaks**, they find evidence of past battles: broken weapons, shredded armor, and claw marks in the snow. An eerie fog clings to the ground, and the air grows unnaturally cold. The group suddenly hears the scraping of bone and the shuffling of feet as undead emerge from the mists.
+
+### Encounter Details
+**Location:** A narrow mountain pass surrounded by jagged cliffs and snow-covered boulders. Visibility is reduced to 30 feet due to the fog.
+
+**Enemies:**
+- **6 Skeletons**: Armed with shortbows and rusty swords, they keep their distance, attacking from cover.
+- **6 Zombies**: Shambling forward to overwhelm the party with their relentless attacks.
+- **1 Frost-Touched Skeleton** (CR 3): A skeleton imbued with cold energy, capable of casting *Ice Knife* (1/day) and dealing cold damage with its attacks.
+
+**Combat Adjustments for Difficulty:**
+- For a smaller party, reduce the number of skeletons and zombies to 4 each.
+- For a larger or stronger party, add another Frost-Touched Skeleton or 3 more zombies.
+
+### Terrain Features
+- **Slippery Ice:** Certain areas are covered in ice, requiring a DC 12 Dexterity (Acrobatics) check to move across without falling prone.
+- **Rocky Outcrops:** Provide half cover for creatures behind them.
+- **Fog:** Reduces visibility and imposes disadvantage on ranged attack rolls beyond 30 feet.
+
+### Tactics
+- The skeletons use their ranged attacks from cover, focusing on squishier targets like the Scribe or the Blaster.
+- The zombies form a wall, pushing toward the party’s frontline Heavies.
+- The Frost-Touched Skeleton targets clustered enemies with its *Ice Knife* spell, aiming to disrupt their formation.
+
+### Treasure
+- **Cold-Imbued Amulet**: Found on the Frost-Touched Skeleton, this amulet grants resistance to cold damage for 1 hour per day when worn.
+- A journal written in an archaic dialect of Elvish (requiring *Comprehend Languages* or a DC 15 Intelligence [History] check to translate) hints at a "winter pact" made with an ancient power.
+
+---
